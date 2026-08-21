@@ -1,3 +1,1 @@
----
-draft: true
----[[singers-tgios]|Певцы - tGIoS]
+[[singers-tgios]|Певцы - tGIoS]
