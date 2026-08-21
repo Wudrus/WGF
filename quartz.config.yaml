@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: wudrus.github.io/wgf
+  baseUrl: wudrus.github.io/WGF
   ignorePatterns:
     - private
     - templates
