@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.hasProperty("song")
+    - singers.containsAny(link("Anonum"), link("Boxser"), link("Kari"), link("Koshak"), link("Neo05TV"), link("Raven"), link("Ugol"), link("Wudrus"))
+formulas:
+  Песня: file.asLink(file.properties.title)
+properties:
+  note.singers:
+    displayName: Певцы
+  file.tags:
+    displayName: Теги
+views:
+  - type: table
+    name: Общий вид
+    order:
+      - formula.Песня
+      - singers
+    columnSize:
+      formula.Песня: 356
+      note.singers: 228
+    rowHeight: medium

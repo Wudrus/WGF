@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.hasProperty("song")
+formulas:
+  Песня: file.asLink(file.properties.title)
+properties:
+  note.singers:
+    displayName: Певцы
+  file.tags:
+    displayName: Теги
+views:
+  - type: table
+    name: Таблица
+    order:
+      - formula.Песня
+      - singers
+    columnSize:
+      formula.Песня: 424
+      note.singers: 181
+  - type: cards
+    name: Карты
+    order:
+      - formula.Песня
+    cardSize: 400
+  - type: list
+    name: Список
+    order:
+      - formula.Песня
+    indentProperties: true
