@@ -11,6 +11,9 @@ title: Wudrus' Great Funk - Основная страница
 <div style="max-height:325px;overflow:auto;border:1px solid #ccc;padding:10px" class="scroll-box">
 
 # Change Logs
+>## 23.08.2026-02:47
+>Добавлен [[index-tgios|tGIoS]]: [[tgios-bake-no-hana|Bake No Hana]] по просьбе Raven.
+
 >## 23.08.2026-02:02
 >Добавил остальные песни из Sonnets of HUSTLIN'. Немного переделал концепт ERECT ремиксов, а также сделал новую сводку в [[wgf-soh-vermillion-shard|Vermillion Shard]].
 
