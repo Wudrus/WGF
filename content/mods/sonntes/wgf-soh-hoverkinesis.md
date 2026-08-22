@@ -1,23 +1,23 @@
 ---
-title: Wudrus' Great Funk - Sonnets of HUSTLIN' - Bullet HUSTLE
+title: Wudrus' Great Funk - Sonnets of HUSTLIN' - Hoverkinesis
 song: true
 singers:
-  - "[[Neo05TV]]"
+  - "[[Wudrus]]"
   - "[[Koshak]]"
   - "[[Anonum]]"
   - "[[Loxotron]]"
 aliases:
-  - Bullet HUSTLE
+  - Hoverkinesis
 ---
-\[Default\]: ![[wgf-soh-bullet-hustle.ogg]]
-\[ERECT\]: ![[wgf-soh-bullet-hustle-loxotron.ogg]]
+\[Default\]: ![[wgf-soh-hoverkinesis.ogg]]
+\[ERECT\]: ![[wgf-soh-hoverkinesis-loxotron.ogg]]
 
-- Песня - [Bullet HUSTLE](https://www.youtube.com/watch?v=4HzR8TnnYS4)
-- Песня \[ERECT\] - [Bullet HUSTLE Bladebreak Mix](https://www.youtube.com/watch?v=v8YRhYodDmo)
+- Песня - [Hoverkinesis](https://www.youtube.com/watch?v=FjGdrwfAxL0)
+- Песня \[ERECT\] - [Hoverkinesis Quasarshock Mix](https://www.youtube.com/watch?v=Jozr2cEuk9s)
 - Мод - [FNF Pixels: Sonnets of HUSTLIN'](https://fridaynightfunking.fandom.com/wiki/Friday_Night_Funkin%27_Pixels:_Sonnets_of_HUSTLIN%27)
 - Певцы:
 	- [[singers-tgios|tGIoS]]
-		- Neo05TV
+		- Wudrus
 		- Koshak
 		- Anonum
 		- Loxotron \[ERECT\]

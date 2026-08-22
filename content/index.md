@@ -11,6 +11,9 @@ title: Wudrus' Great Funk - Основная страница
 <div style="max-height:325px;overflow:auto;border:1px solid #ccc;padding:10px" class="scroll-box">
 
 # Change Logs
+>## 23.08.2026-02:02
+>Добавил остальные песни из Sonnets of HUSTLIN'. Немного переделал концепт ERECT ремиксов, а также сделал новую сводку в [[wgf-soh-vermillion-shard|Vermillion Shard]].
+
 >## 21.08.2026-18:09
 >Сделал новые рендеры [[wgf-soh-bullet-hustle|Bullet HUSTLE]] и [[wgf-soh-killing-drive|Killing Drive]], их страницы, и новую страницу [[index-wgf-soh|Песни - Sonnets of HUSTLIN']].
 >Сейчас буду тестить, а после - загружу всё это на GitHub, чтобы можно было открыть новый сайт (старый будет работать параллельно разработке этого).

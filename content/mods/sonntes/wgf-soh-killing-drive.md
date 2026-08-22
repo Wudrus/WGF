@@ -9,10 +9,8 @@ singers:
 aliases:
   - Killing Drive
 ---
-\[Default | Mixed\]: ![[wgf-soh-killing-drive.ogg]]
-\[Loxotron | ERECT\]: ![[wgf-soh-killing-drive-loxotron.ogg]]
-\[Koshak\]: ![[wgf-soh-killing-drive-koshak.ogg]]
-\[Anonum\]: ![[wgf-soh-killing-drive-anonum.ogg]]
+\[Defaul\]: ![[wgf-soh-killing-drive.ogg]]
+\[ERECT\]: ![[wgf-soh-killing-drive-loxotron.ogg]]
 
 - Песня - [Killing Drive](https://www.youtube.com/watch?v=BQFcRdPhzCk)
 - Песня \[ERECT\] - [Killing Drive Olethros Mix](https://www.youtube.com/watch?v=-3yvleyad7s)
