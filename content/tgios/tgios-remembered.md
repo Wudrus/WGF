@@ -1,5 +1,5 @@
 ---
-title: Wudrus' Great Funk - tGIoS - Remembered [Slaymixxed] - Wud-dited
+title: Wudrus' Great Funk - tGIoS - Remembered {Slaymixxed} - Wud-dited
 song: true
 singers:
   - "[[Shadow Wudrus]]"
