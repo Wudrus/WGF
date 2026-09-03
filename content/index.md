@@ -6,11 +6,15 @@ title: Wudrus' Great Funk - Основная страница
 ## По модам
 ### [[index-wgf-soh|Friday Night Funkin' Pixels: Sonnets of HUSTLIN']]
 ## По "фандомам"
-### [[fan/limbus/index|Limbus Company]]
+### [[index-wgf-lc|Limbus Company]]
 
 <div style="max-height:325px;overflow:auto;border:1px solid #ccc;padding:10px" class="scroll-box">
 
 # Change Logs
+>## 03.09.2026-18:58
+>Добавлен весь старый раздел [[index-wgf-lc|Limbus Company]] (Пока без отдельных страниц песен).  
+>А ещё я *[[tgios-remembered|Вспопнил]]*.
+
 >## 23.08.2026-12:40
 >Добавлен визуализатор для [[index-tgios|tGIoS]]: [[tgios-reconvicted|Reconvicted]]
 
