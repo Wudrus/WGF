@@ -16,6 +16,8 @@ aliases:
 ---
 ![[tgios-remembered-slaymixxed-wudit.ogg]]
 
+Для этой песни выйдет визуализатор.
+
 - Песня - [Remembered Slaymixxed](https://www.youtube.com/watch?v=u7YVI5KTG2Y) (Изменённая)
 - Оригинальная песня - [Remembered](https://www.youtube.com/watch?v=SR7sTo7MVHA)
 - Мод - [County Funkin'](https://fridaynightfunking.fandom.com/wiki/County_Funkin%27)
