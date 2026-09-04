@@ -1,7 +1,7 @@
 filters:
   and:
     - file.hasProperty("song")
-    - singers.containsAny(link("Anonum"), link("Boxser"), link("Kari"), link("Koshak"), link("Loxotron"), link("Neo05TV"), link("Raven"), link("Shadow Wudrus"), link("Smerch"), link("Ugol"), link("Wudrus"))
+    - singers.containsAny(link("Albina"), link("Callisto"), link("Don Quixote"), link("Faust"), link("Ishmael"), link("Lucio"), link("Meursault"), link("Nicolina"), link("Outis"), link("Time Ripper"), link("Valencina"), link("Yi Sang"))
 formulas:
   Песня: file.asLink(file.properties.title)
 properties:
@@ -15,7 +15,6 @@ views:
     order:
       - formula.Песня
       - singers
-    sort: []
     columnSize:
       formula.Песня: 356
       note.singers: 228

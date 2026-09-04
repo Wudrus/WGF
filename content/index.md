@@ -11,6 +11,11 @@ title: Wudrus' Great Funk - Основная страница
 <div style="max-height:325px;overflow:auto;border:1px solid #ccc;padding:10px" class="scroll-box">
 
 # Change Logs
+>## 04.09.2026-20:03
+>Добавил отдельные страницы для песен из [[index-wgf-lc|Limbus Company]] и соответствующих певцов.  
+>Добавил метаданные для песен, добавленных в прошлом обновлении (Забыл...)  
+>Миграция официально завершена 🎉.
+
 >## 03.09.2026-18:58
 >Добавлен весь старый раздел [[index-wgf-lc|Limbus Company]] (Пока без отдельных страниц песен).  
 >А ещё я *[[tgios-remembered|Вспопнил]]*.
