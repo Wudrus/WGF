@@ -7,10 +7,11 @@ aliases:
 
 
 
-| Песня                                | Аудио                                      | Певцы                                                                                                   |
-| ------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| [[tgios-deceived\|Deceived]]         | ![[tgios-deceived.ogg]]                    | [[Boxser]]<br>[[Neo05TV]]                                                                               |
-| [[tgios-reconvicted\|Reconvicted]]   | ![[tgios-reconvicted.ogg]]                 | [[Neo05TV]], [[Wudrus]], [[Ugol]], [[Boxser]]<br>[[Koshak]]                                             |
-| [[tgios-the-end\| The End {SCDM}]]   | ![[tgios-the-end.ogg]]                     | [[Ugol]], [[Anonum]], [[Koshak]], [[Raven]], [[Wudrus]], [[Neo05TV]]<br>Boyfriend, [[Boxser]], [[Kari]] |
-| [[tgios-bake-no-hana\|Bake No Hana]] | ![[tgios-bake-no-hana.ogg]]                | [[Raven]]<br>[[Neo05TV]]                                                                                |
-| [[tgios-remembered\|Remembered]]     | ![[tgios-remembered-slaymixxed-wudit.ogg]] | [[Shadow Wudrus]]<br>[[Wudrus]]                                                                         |
+| Песня                                | Аудио                                      | Певцы                                                                                                                               |
+| ------------------------------------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[tgios-deceived\|Deceived]]         | ![[tgios-deceived.ogg]]                    | [[Boxser]]<br>[[Neo05TV]]                                                                                                           |
+| [[tgios-reconvicted\|Reconvicted]]   | ![[tgios-reconvicted.ogg]]                 | [[Neo05TV]], [[Wudrus]], [[Ugol]], [[Boxser]]<br>[[Koshak]]                                                                         |
+| [[tgios-the-end\| The End {SCDM}]]   | ![[tgios-the-end.ogg]]                     | [[Ugol]], [[Anonum]], [[Koshak]], [[Raven]], [[Wudrus]], [[Neo05TV]]<br>Boyfriend, [[Boxser]], [[Kari]]                             |
+| [[tgios-bake-no-hana\|Bake No Hana]] | ![[tgios-bake-no-hana.ogg]]                | [[Raven]]<br>[[Neo05TV]]                                                                                                            |
+| [[tgios-remembered\|Remembered]]     | ![[tgios-remembered-slaymixxed-wudit.ogg]] | [[Shadow Wudrus]]<br>[[Wudrus]]                                                                                                     |
+| [[tgios-masquerade\|Masquerade]]     | ![[tgios-masquerade.ogg]]                  | [[Neo05TV]] CASSIS Kairi Skirk Hardd Zeke Ryu Ergo Lodum<br>[[Boxser]] [[Anonum]] [[Koshak]] [[Raven]] [[Wudrus]] [[Ugol]] [[Kari]] |

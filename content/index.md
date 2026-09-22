@@ -11,6 +11,9 @@ title: Wudrus' Great Funk - Основная страница
 <div style="max-height:325px;overflow:auto;border:1px solid #ccc;padding:10px" class="scroll-box">
 
 # Change Logs
+>## 22.09.2025-12:38
+>[[tgios-masquerade|Masquerade]]
+
 >## 04.09.2026-20:03
 >Добавил отдельные страницы для песен из [[index-wgf-lc|Limbus Company]] и соответствующих певцов.  
 >Добавил метаданные для песен, добавленных в прошлом обновлении (Забыл...)  
